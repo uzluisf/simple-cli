@@ -1,0 +1,9 @@
+use v6.d;
+
+#| Greet a person.
+sub MAIN(
+    $greeting,
+    $person
+) {
+    say "$greeting, $person."
+}

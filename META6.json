@@ -1,0 +1,17 @@
+{
+    "perl" : "6.c",
+    "name" : "Greeter",
+    "version" : "0.0.1",
+    "auth" : "gitlab:uzluisf",
+    "authors" : [ "Name" ],
+    "description" : "Description",
+    "license" : "Artistic-2.0",
+    "source-url" : "https://github.com/uzluisf/simple-cli",
+    "provides" : { 
+        "greet" : "bin/greet"
+    },
+    "resources" : [],
+    "depends" : [],
+    "build-depends" : [],
+    "test-depends" : [] 
+}
